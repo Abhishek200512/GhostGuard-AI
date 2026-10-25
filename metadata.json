@@ -1,0 +1,6 @@
+{
+  "name": "GhostGuard AI",
+  "description": "AI-powered personal data deletion audit platform for detecting ghost data and recreation risks across distributed topologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
